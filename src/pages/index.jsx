@@ -2,7 +2,6 @@ import Image from "next/image";
 import PageLayout from "../common/layout/PageLayout";
 import { H1, H2, H3 } from "../common/components/elements/Text";
 import { Card } from "../modules/home/Card";
-import { Button } from "../common/components/elements/Button";
 import { LinkedItemStyled } from "../common/components/elements/LinkedItem";
 
 const cardsDetails = [
